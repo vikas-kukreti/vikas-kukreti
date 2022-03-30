@@ -3,8 +3,8 @@
 - Interested in UI UX, Full Stack Web & Application Development, System Design & Problem Solving.
 - I love to learn new skills, develop software and I am also a professional(bathroom) singer.
 
-### 🌱 I’m currently learning System Design(High Level), Design Patterns(JS) & Golang
-### 🤝 Would Love to Collaborate on Projects related to Javascript & OS Development
+#### 🌱 I’m currently learning System Design(High Level), Design Patterns(JS) & Golang
+#### 🤝 Would Love to Collaborate on Projects related to Javascript & OS Development
 
 ### 💪 Proficient in
 - Full Stack Web Developement (HTML, CSS, JS, React, NodeJS, MongoDB, Socket, AWS, PHP and MySQL)
