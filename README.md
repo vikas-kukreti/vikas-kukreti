@@ -18,7 +18,7 @@
 - Writing Stories 📝
 
 
-🌱 I’m currently learning System Design(High Level), Design Patterns(JS) & Golang\n
+🌱 I’m currently learning System Design(High Level), Design Patterns(JS) & Golang<br/>
 🤝 Would Love to Collaborate on Projects related to Javascript & OS Development
 
 ### 📫 Get in touch 
