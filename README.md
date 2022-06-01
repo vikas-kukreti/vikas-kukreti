@@ -1,6 +1,6 @@
 ## 👋 Hi, Vikas Kukreti here.
-- Computer Science Undergraduate with Strong Analytical, Programming, UI/UX & System Designing Skills. 
-- Interested in UI UX, Full Stack Web & Application Development, System Design & Problem Solving.
+- Computer Science Undergraduate with Creative Thinking, Strong Analytical & Software Development Skills
+- Interested in Full Stack Web & Application Development, System Design & Problem Solving.
 - I love to learn new skills, develop software and I am also a professional(bathroom) singer.
 
 ### 💪 Proficient in
@@ -9,7 +9,7 @@
 - Pixel Perfect UI Development (Android, React Native, Web(Core/React))
 - Scripting and Automation using NodeJS and Other Scripting Languages 
 - Cross Platform Mobile & Desktop App Developement (React Native, Electron)
-- Other Programming languages I work on - C, C++, Java and Python
+- Other Programming languages I work on - C, C++, Java and Python (beginner)
 
 ### 🌱 Hobbies
 - Developing Software (in Real) 👨‍💻
@@ -18,8 +18,8 @@
 - Writing Stories 📝
 
 
-🌱 I’m currently learning System Design(High Level), Design Patterns(JS) & Golang<br/>
-🤝 Would Love to Collaborate on Projects related to Javascript & OS Development
+🌱 I’m currently learning System Design(High Level), Design Patterns(JS) & Golang(Just starting out)<br/>
+🤝 Would Love to Collaborate on Projects related to Javascript & Application Development
 
 ### 📫 Get in touch 
 - vickydvlpr@gmail.com
