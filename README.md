@@ -1,7 +1,11 @@
 ## 👋 Hi, Vikas Kukreti here.
-- Computer Science Grad with Creative Thinking, Strong Analytical & Software Development Skills
-- Interested in Full Stack Web & Application Development, System Design & Problem Solving.
-- I love to learn new skills, develop software and I am also a professional(bathroom) singer.
+- Computer Science Grad with Creative Thinking, Strong Analytical & Software Development Skills.
+- Interested in UI UX, Full Stack Web & Application Development, System Design & Problem Solving.
+- Was not much into Academics but still topped both in engineering diploma and bachelors.
+- And I am also a professional(bathroom😥) singer.
+
+Website: https://vikas-kukreti.github.io
+GitHub: https://github.com/vikas-kukreti
 
 ### 💪 Proficient in
 - Full Stack Web Developement (HTML, CSS, JS, React, NodeJS, MongoDB, Socket, AWS, PHP and MySQL)
@@ -12,16 +16,13 @@
 - Other Programming languages I work on - C, C++, Java and Python (beginner)
 
 ### 🌱 Hobbies
-- Developing Software (in Real) 👨‍💻
 - Singing like Arijit 😂
 - Cooking Delicious Food 😋
-- Writing Stories 📝
 
 
 🌱 I’m currently learning System Design(High Level), Design Patterns(JS) & Golang(Just starting out)<br/>
-🤝 Would Love to Collaborate on Projects related to Javascript & Application Development
+🤝 Would Love to Collaborate on Projects related to Javascript or Application Development
 
 ### 📫 Get in touch 
 - vickydvlpr@gmail.com
 - https://linkedin.com/in/vikas-kukreti
-
