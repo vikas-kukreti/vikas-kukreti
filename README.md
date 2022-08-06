@@ -1,5 +1,5 @@
 ## 👋 Hi, Vikas Kukreti here.
-- Computer Science Undergraduate with Creative Thinking, Strong Analytical & Software Development Skills
+- Computer Science Grad with Creative Thinking, Strong Analytical & Software Development Skills
 - Interested in Full Stack Web & Application Development, System Design & Problem Solving.
 - I love to learn new skills, develop software and I am also a professional(bathroom) singer.
 
