@@ -20,7 +20,7 @@ GitHub: https://github.com/vikas-kukreti
 - Singing 🎤
 - Cooking 🧑‍🍳
 
-🤝 Would Love to Collaborate on Projects related to Javascript or Application Development
+🤝 Would love to collaborate on open-source projects related to Javascript, Backend (Node, Golang) or Application Development
 
 ### 📫 Get in touch 
 - vickydvlpr@gmail.com
