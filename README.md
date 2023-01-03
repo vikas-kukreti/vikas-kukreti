@@ -6,7 +6,6 @@
 - 🎤 And I am also a professional(bathroom😥) singer.
 
 Website: https://vikas-kukreti.github.io
-GitHub: https://github.com/vikas-kukreti
 
 ### 💪 Proficient in
 - 🌐 Full Stack Web Developement (HTML, CSS, JS, React, NodeJS, MongoDB, Socket, AWS, PHP and MySQL)
