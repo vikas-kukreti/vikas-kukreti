@@ -22,5 +22,5 @@ Website: https://vikas-kukreti.github.io
 🤝 Would love to collaborate on open-source projects related to Javascript, Backend (Node, Golang) or Application Development
 
 ### 📫 Get in touch 
-- vickydvlpr@gmail.com
+- vikaskukreti10@gmail.com
 - https://linkedin.com/in/vikas-kukreti
