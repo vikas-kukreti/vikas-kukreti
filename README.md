@@ -1,17 +1,18 @@
 ## 👋 Hi, Vikas Kukreti here.
-- 💻 Passionate Software Engineer with Creative Thinking, Strong Analytical & Software Development Skills.
-- 💚 10x Developer who can work on multiple technologies with great coding and debugging skills and can learn anything quickly.
-- 🎤 And I am also a professional(kind of 😥) singer.
+- Software Engineer with a passion for creativity, innovation and problem solving.
+- Expertise in Full Stack Web & Application Development, System Design & Problem Solving.
+- Well-versed in computer science fundamentals, covering data structures, algorithms, and system design.
+
 
 Website: https://vikas-kukreti.github.io
 
 ### 💪 Proficient in
-- 🌐 Full Stack Web Developement (HTML, CSS, JS, React, NodeJS, Golang, MongoDB, Socket, AWS, PHP and MySQL)
+- 🌐 Full Stack Web Developement (HTML, CSS, JS, React, NodeJS, Golang, Java, MongoDB, Socket, AWS, PHP and MySQL)
 - 📱 Android Development (Java/Kotlin, Architecture Components, MVVM)
-- 🖼️ Pixel Perfect UI Development (Android, React Native, Web(Core HTML CSS/React))
-- ⚙️ Scripting and Automation using NodeJS and Python
+- 🖼️ Pixel Perfect UI Development (Android, React Native, Web(Core HTML CSS, React))
+- ⚙️ Scripting and Automation using NodeJS, Python, Selenium, Beautiful Soup
 - 🚀 Cross Platform Mobile & Desktop App Developement (React Native, Electron)
-- ⌨️ Other Programming languages I work on - C, C++, Java and Python
+- ⌨️ Other Programming languages I know - C, C++
 
 ### 🌱 Hobbies
 - Singing 🎤
