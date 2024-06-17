@@ -18,7 +18,7 @@ Website: https://vikas-kukreti.github.io
 - Singing 🎤
 - Cooking 🧑‍🍳
 
-🤝 Would love to collaborate on open-source projects related to Javascript, Backend (Node, Golang) or Application Development
+🤝 Would love to collaborate on open-source projects related to Javascript (React, Core), Backend (Golang, Java, Node.JS) or Application Development
 
 ### 📫 Get in touch 
 - vikaskukreti10@gmail.com
